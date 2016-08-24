@@ -17,7 +17,7 @@ require(shiny)
 require(lubridate)
 require(ggplot2)
 
-setwd("D:/Tarun/data")
+setwd("D:/neha/data")
 
 data<-read.csv("raw_data_latest_wkend.csv")
 colnames(data)
